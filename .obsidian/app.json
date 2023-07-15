@@ -1,0 +1,17 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "A00 Jode/00-09 Back-end/01 Inbox",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [],
+  "autoPairBrackets": true,
+  "tabSize": 2,
+  "showFrontmatter": false
+}
