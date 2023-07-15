@@ -49,7 +49,9 @@
         "Mod"
       ],
       "key": "P"
-    },
+    }
+  ],
+  "dataview:dataview-force-refresh-views": [
     {
       "modifiers": [
         "Mod"

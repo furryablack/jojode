@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.00 Index.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a572d674918abfb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md"
               }
             }
           },
@@ -168,19 +155,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a572d674918abfb2",
+  "active": "8c4a358795d7bab2",
   "lastOpenFiles": [
-    "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
     "A00 Jojode/00-09 Back-end/09 Templates/A00.09.00 Index.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.03 How to backup system.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
+    "A00 Jojode/00-09 Back-end/01 Inbox/A00.01.00 Index.md",
+    "README.md",
+    "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.00 Index.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.01 Key bindings.md",
-    "A00 Jojode/00-09 Back-end/01 Inbox/A00.01.00 Index.md",
-    "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.03 How to backup system.md",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Structure.md",
+    "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.00 Index.md",
-    "README.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.04 Untitled.canvas",
     "A00 Jode/00-09 Back-end/08 Documentation/A00.08 Untitled.canvas",
     "A00 Jode/00-09 Back-end/00 System root/A00.00.02 Files.md",
     "A00 Jode/00-09 Back-end/08 Documentation/A00.08.04 CAnv.canvas",
@@ -206,7 +194,6 @@
     "A00 Jedo Backend/10-19 Sofware/10 Obsidian/templates/A00.11.00 Index.md",
     "A00 Jedo Backend/00-09 System/00 Index/Untitled.md",
     "A02 Test/10-19 Test Area/10 Test category/A02.10.01 Test item.md",
-    "A02 Test/10-19 Test Area/10 Test category/A02.10.00 Index.md",
-    "A02 Test/10-19 Test Category/A.md"
+    "A02 Test/10-19 Test Area/10 Test category/A02.10.00 Index.md"
   ]
 }
