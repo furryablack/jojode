@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md"
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "8c4a358795d7bab2",
   "lastOpenFiles": [
+    "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
     "A00 Jojode/00-09 Back-end/09 Templates/A00.09.00 Index.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/A00.01.00 Index.md",
     "README.md",
-    "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.00 Index.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.01 Key bindings.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
