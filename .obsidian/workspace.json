@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bafa2e4376caacf",
+        "id": "97eafb6799789f22",
         "type": "tabs",
         "children": [
           {
-            "id": "14ed4da0e7524388",
+            "id": "7f58960a80d51ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,21 +155,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14ed4da0e7524388",
+  "active": "7f58960a80d51ebf",
   "lastOpenFiles": [
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
+    "A00 Jojode/00-09 Back-end/01 Inbox/Lab.md",
+    "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
+    "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.03 How to backup system.md",
     "README.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.00 Index.md",
     "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.01 Key bindings.md",
-    "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
     "A00 Jojode/00-09 Back-end/02 In progress/A00.02.00 Index.md",
-    "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/Test.md",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.00 Index.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/A00.01.00 Index.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/RErDAad.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.03 How to backup system.md",
     "A00 Jojode/00-09 Back-end/02 In progress",
     "A00 Jojode/00-09 Back-end/09 Templates/A00.09.00 Index.md",
     "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
@@ -190,7 +191,6 @@
     "A00 Jedo/00-09 Back-end/02 Bin/yourfile/00-09 Back-end/00 System root/A00.00.01 Index of  indexes.md",
     "A00 Jedo/00-09 Back-end/02 Bin/A00.02.00 Index.md",
     "jedo.backup.zip",
-    "A00 Jedo/00-09 Back-end/02 Bin/yourfile/00-09 Back-end/01 Inbox/A00.01.00 Index.md",
     "A00 Jedo/00-09 Back-end/02 Bin/yourfile/00-09 Back-end/02 Bin/A00.02.01 zip.ps",
     "A00 Jedo/00-09 Back-end/02 Bin/yourfile/00-09 Back-end/01 Inbox",
     "A00 Jedo/00-09 Back-end/02 Bin/yourfile/00-09 Back-end/02 Bin",

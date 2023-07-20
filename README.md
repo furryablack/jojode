@@ -23,7 +23,7 @@ Step by step:
 4) Install plugins from `A00.08.02 Requied plugins and themes` (only plugins are required)
 5) Update hotkeys like in `A00.08.01 Key bindings` (after step 4)
 
-### How to use
+### How to use (preambula)
 
 A minimal requirement - know how `Johnny Decimal` works.
 
@@ -37,3 +37,7 @@ Optionally:
 - Learn `JS`
 - Learn `HTML` and `CSS`
 - Learn how your OS system shell works
+  
+### How to use 
+
+In progress, in progress ...
