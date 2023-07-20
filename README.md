@@ -17,7 +17,7 @@ Previous iterations (archived):
 ### How to setup
 
 Step by step:
-1) install Obsidian tool (https://obsidian.md/)
+1) Install Obsidian tool (https://obsidian.md/)
 2) git clone https://github.com/furryablack/jojode.git
 3) Go to `Jojode / A00 Jojode / 00-09 Back-end / 08 Documentation / A00.08.00 Index`
 4) Install plugins from `A00.08.02 Requied plugins and themes` (only plugins are required)
