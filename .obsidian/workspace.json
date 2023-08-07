@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97eafb6799789f22",
+        "id": "1413691be320b272",
         "type": "tabs",
         "children": [
           {
-            "id": "7f58960a80d51ebf",
+            "id": "f4dba8a18a22db3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md"
+                "file": "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md"
               }
             }
           },
@@ -155,13 +155,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7f58960a80d51ebf",
+  "active": "f4dba8a18a22db3a",
   "lastOpenFiles": [
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
+    "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
-    "A00 Jojode/00-09 Back-end/00 System root/A00.00.00 Index.md",
     "README.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.00 Index.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/A00.01.00 Index.md",
+    "A00 Jojode/00-09 Back-end/00 System root/A00.00.00 Index.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.01 Key bindings.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.03 How to backup system.md",
+    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
     "Z10 Zettelkasten/Notes/Z10.L10.10a English reading.md",
     "Z10 Zettelkasten/Notes",
     "Z10 Zettelkasten/10-99 Notes/10 Green",
@@ -177,12 +182,7 @@
     "L10 English reading",
     "A00 Jojode/00-09 Back-end/09 Templates/A00.09.00 Index.md",
     "A00 Jojode/00-09 Back-end/09 Templates/A00.09.01 Note.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.03 How to backup system.md",
-    "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/Lab.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.02 Requied plugins and themes.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.00 Index.md",
-    "A00 Jojode/00-09 Back-end/08 Documentation/A00.08.01 Key bindings.md",
     "A00 Jojode/00-09 Back-end/02 In progress/A00.02.00 Index.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/Test.md",
     "A00 Jojode/00-09 Back-end/01 Inbox/RErDAad.md",

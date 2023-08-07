@@ -10,7 +10,7 @@
   "showUnsupportedFiles": true,
   "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [],
+  "spellcheckLanguages": null,
   "autoPairBrackets": true,
   "tabSize": 2,
   "showFrontmatter": false
