@@ -54,7 +54,7 @@ What're with a files and another attaches?
 - Try to avoid to attach big files or text instead of the notes. 
 - This ability has purpose to serve schemas and|or images.
 
-Create new category requires to create `Category Zero Index` file.
+Each category requires to create `Category Zero Index` file.
 - `Ctrl + O` - set name like A-Zxx.category_id.00, look for another notes to example
 - Create new note
 - This note will be created in the `Inbox` ([[A00.01.00 Index]])
