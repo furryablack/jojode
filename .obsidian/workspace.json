@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/02 Going to/A00.02.00 Index.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/02 Going to/A00.02.00 Index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/02 Going to/A00.02.00 Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A00 Jojode/00-09 Back-end/02 Going to/A00.02.00 Index.md"
+                "file": "README.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "f4dba8a18a22db3a",
   "lastOpenFiles": [
-    "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
     "A00 Jojode/00-09 Back-end/02 Going to/A00.02.00 Index.md",
+    "A00 Jojode/00-09 Back-end/00 System root/A00.00.01 Index of indexes.md",
     "A00 Jojode/00-09 Back-end/02 Going to",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked files.md",
     "A00 Jojode/00-09 Back-end/00 System root/A00.00.02 Unlinked notes.md",

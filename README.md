@@ -40,4 +40,23 @@ Optionally:
   
 ### How to use 
 
-In progress, in progress ...
+Create OR find note:
+- `Ctrl + O` - type prefix AND|OR words
+- Select OR create new note
+- This note will be created in the `Inbox` ([[A00.01.00 Index]])
+- `Ctrl + T` to past the note template
+- Add your content
+- Check and fix note name if it is needed
+- `Ctrl + M` to move note in the concrete `Project.Area.Category`
+
+What're with a files and another attaches?
+- They must be named according to the same rules as the notes.
+- Try to avoid to attach big files or text instead of the notes. 
+- This ability has purpose to serve schemas and|or images.
+
+Create new category requires to create `Category Zero Index` file.
+- `Ctrl + O` - set name like A-Zxx.category_id.00, look for another notes to example
+- Create new note
+- This note will be created in the `Inbox` ([[A00.01.00 Index]])
+- `Ctrl + T` to past the category index template
+- `Ctrl + M` to move in your new category
